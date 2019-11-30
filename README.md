@@ -39,3 +39,18 @@ $ rasa run actions
 ```bash
 $ rasa x
 ```
+
+### Output
+
+1. Initiation of conversation
+
+![alt text](https://github.com/1nF0rmed/MedicalDiagnosisExpertSystem/raw/master/images/init.jpeg "Initiation of the conversation")
+
+2. Stepping through the conversation
+
+![alt text](https://github.com/1nF0rmed/MedicalDiagnosisExpertSystem/raw/master/images/step1.jpeg "Stepping in conversation")
+
+3. Providing diagnosis for the symptoms
+
+![alt text](https://github.com/1nF0rmed/MedicalDiagnosisExpertSystem/raw/master/images/step2.jpeg "Stepping into conversation")
+
